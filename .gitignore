@@ -1,1 +1,3 @@
 mypass.txt
+images/* 
+!images/bye.jpg
