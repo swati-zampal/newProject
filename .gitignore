@@ -1,3 +1,6 @@
-mypass.txt
+[Bmypass.txt
 images/* 
 !images/bye.jpg
+myinfo.txt
+mydata/*
+!mydata/file5
