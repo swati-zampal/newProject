@@ -1,2 +1,2 @@
-this is to pull to github
-this is new line addeded to check conflict
+Th is to push to github
+this is old line addeded to check conflict
